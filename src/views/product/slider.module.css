@@ -1,0 +1,19 @@
+.react-multiple-carousel__arrow--left {
+    left: calc(5% + 1px) !important;
+}
+
+.react-multiple-carousel__arrow--right {
+    right: calc(5% + 1px) !important;
+}
+.slider_detail_image{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+}
+@media screen and (max-width:768px) {
+    .slider_detail_image{
+        width: 100px;
+        height: 50px;
+    }
+}

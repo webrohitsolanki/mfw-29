@@ -1,0 +1,211 @@
+@font-face {
+	font-family: "pz-icon";
+	src: url("./pz-icon.eot?3d59856556a3f2d28aa9695ae25dc8be#iefix") format("embedded-opentype"),
+url("./pz-icon.woff2?3d59856556a3f2d28aa9695ae25dc8be") format("woff2"),
+url("./pz-icon.woff?3d59856556a3f2d28aa9695ae25dc8be") format("woff"),
+url("./pz-icon.ttf?3d59856556a3f2d28aa9695ae25dc8be") format("truetype"),
+url("./pz-icon.svg?3d59856556a3f2d28aa9695ae25dc8be#pz-icon") format("svg");
+}
+
+[class^="pz-icon-"],
+[class*=" pz-icon-"],
+.pz-icon-font {
+	font-family: 'pz-icon' !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.pz-icon-about:before {
+  content: "\f101";
+}
+.pz-icon-akinon:before {
+  content: "\f102";
+}
+.pz-icon-american-express:before {
+  content: "\f103";
+}
+.pz-icon-arrow-up:before {
+  content: "\f104";
+}
+.pz-icon-beauty:before {
+  content: "\f105";
+}
+.pz-icon-bell:before {
+  content: "\f106";
+}
+.pz-icon-cart:before {
+  content: "\f107";
+}
+.pz-icon-check:before {
+  content: "\f108";
+}
+.pz-icon-chevron-down:before {
+  content: "\f109";
+}
+.pz-icon-chevron-end:before {
+  content: "\f10a";
+}
+.pz-icon-chevron-start:before {
+  content: "\f10b";
+}
+.pz-icon-chevron-top:before {
+  content: "\f10c";
+}
+.pz-icon-chevron-up:before {
+  content: "\f10d";
+}
+.pz-icon-close:before {
+  content: "\f10e";
+}
+.pz-icon-contact:before {
+  content: "\f10f";
+}
+.pz-icon-cvc:before {
+  content: "\f110";
+}
+.pz-icon-default:before {
+  content: "\f111";
+}
+.pz-icon-digital-health:before {
+  content: "\f112";
+}
+.pz-icon-directions:before {
+  content: "\f113";
+}
+.pz-icon-entertainment:before {
+  content: "\f114";
+}
+.pz-icon-eye-off:before {
+  content: "\f115";
+}
+.pz-icon-eye-on:before {
+  content: "\f116";
+}
+.pz-icon-facebook-login:before {
+  content: "\f117";
+}
+.pz-icon-facebook:before {
+  content: "\f118";
+}
+.pz-icon-fintech:before {
+  content: "\f119";
+}
+.pz-icon-giftbox:before {
+  content: "\f11a";
+}
+.pz-icon-globe:before {
+  content: "\f11b";
+}
+.pz-icon-google-login:before {
+  content: "\f11c";
+}
+.pz-icon-google:before {
+  content: "\f11d";
+}
+.pz-icon-hamburger:before {
+  content: "\f11e";
+}
+.pz-icon-heart-full:before {
+  content: "\f11f";
+}
+.pz-icon-heart-stroke:before {
+  content: "\f120";
+}
+.pz-icon-home:before {
+  content: "\f121";
+}
+.pz-icon-info:before {
+  content: "\f122";
+}
+.pz-icon-instagram:before {
+  content: "\f123";
+}
+.pz-icon-join:before {
+  content: "\f124";
+}
+.pz-icon-layout-2:before {
+  content: "\f125";
+}
+.pz-icon-layout-3:before {
+  content: "\f126";
+}
+.pz-icon-logistics:before {
+  content: "\f127";
+}
+.pz-icon-logo:before {
+  content: "\f128";
+}
+.pz-icon-mail:before {
+  content: "\f129";
+}
+.pz-icon-mastercard:before {
+  content: "\f12a";
+}
+.pz-icon-minus:before {
+  content: "\f12b";
+}
+.pz-icon-money:before {
+  content: "\f12c";
+}
+.pz-icon-mp-otp:before {
+  content: "\f12d";
+}
+.pz-icon-news:before {
+  content: "\f12e";
+}
+.pz-icon-paypal:before {
+  content: "\f12f";
+}
+.pz-icon-pin:before {
+  content: "\f130";
+}
+.pz-icon-pinterest:before {
+  content: "\f131";
+}
+.pz-icon-plus:before {
+  content: "\f132";
+}
+.pz-icon-search:before {
+  content: "\f133";
+}
+.pz-icon-share:before {
+  content: "\f134";
+}
+.pz-icon-shop:before {
+  content: "\f135";
+}
+.pz-icon-spinner:before {
+  content: "\f136";
+}
+.pz-icon-store-pin:before {
+  content: "\f137";
+}
+.pz-icon-track-order:before {
+  content: "\f138";
+}
+.pz-icon-twiiter:before {
+  content: "\f139";
+}
+.pz-icon-twitterx:before {
+  content: "\f13a";
+}
+.pz-icon-upload-file:before {
+  content: "\f13b";
+}
+.pz-icon-user:before {
+  content: "\f13c";
+}
+.pz-icon-visa:before {
+  content: "\f13d";
+}
+.pz-icon-whatsapp:before {
+  content: "\f13e";
+}
+.pz-icon-youtube:before {
+  content: "\f13f";
+}

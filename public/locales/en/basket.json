@@ -1,0 +1,51 @@
+{
+  "my_cart": "Cart Items",
+  "back_to_shopping": "BACK TO SHOPPING",
+  "empty": {
+    "title": "Your Cart is Empty!",
+    "content_first": "Your cart is currently empty",
+    "content_second": "You can add the products to your cart to continue shopping.",
+    "content_third": "Search or Browse through Departments",
+    "button": "CONTINUE SHOPPING"
+  },
+  "card": {
+    "color": "Color",
+    "size": "Size",
+    "qty": "Qty",
+    "modal": {
+      "title": "Delete and add to favorites",
+      "question": "Are you sure you want to delete the product?",
+      "delete": "Delete",
+      "add_to_favorites": "Delete and Add to Favorites",
+      "cancel": "Cancel"
+    }
+  },
+  "summary": {
+    "title": "Order Summary",
+    "subtotal": "Quantity",
+    "items": "items",
+    "discounts_total": "Discounts Total",
+    "remove": "REMOVE",
+    "submit": "SUBMIT",
+    "total": "Sub Total",
+    "proceed_to_checkout": "PROCEED TO CHECKOUT",
+    "form": {
+      "title": "Discount or Gift Voucher",
+      "placeholder": "Discount Code or Gift Card",
+      "error": {
+        "required": "This field is required."
+      }
+    }
+  },
+  "mini_basket": {
+    "color": "Color",
+    "size": "Size",
+    "remove": "remove",
+    "my_bag": "My Bag",
+    "items": "items",
+    "subtotal": "Subtotal",
+    "view_bag": "VIEW BAG",
+    "continue_shopping": "continue shopping",
+    "in_the_bag": "It's in the bag"
+  }
+}

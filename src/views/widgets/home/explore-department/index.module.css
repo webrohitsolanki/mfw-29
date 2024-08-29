@@ -1,0 +1,24 @@
+.react-multiple-carousel__arrow{
+    background:#C475AB !important;
+}
+.react-multiple-carousel__arrow--right,.react-multiple-carousel__arrow--left{
+    background:#C475AB !important;
+}
+/* .react-multiple-carousel__arrow .react-multiple-carousel__arrow--right{
+    right: calc(0% + 1px) !important;
+}  */
+  @media screen and (max-width:768px){
+    .react-multiple-carousel__arrow{
+        background:#C475AB !important;
+        min-height:25px !important;
+        min-width:25px !important;
+        top:35px !important;
+    }
+    .react-multiple-carousel__arrow::before{
+        color:#fff !important;
+        font-size:12px !important;
+    }
+    .explore_department{
+        text-align:center !important;
+    }
+  }

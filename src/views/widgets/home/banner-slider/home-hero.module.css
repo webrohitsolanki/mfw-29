@@ -1,0 +1,144 @@
+.home_hero_slider {
+  position: relative;
+  margin-top: 20px;
+}
+
+.home_slider_title {
+  position: absolute;
+  top: 32%;
+  font-size: 70px;
+  color: #FFFAF1;
+  font-family: Georgia Regular;
+  left: 180px;
+  transform: translateY(-50%);
+}
+
+.home_slider_content {
+  position: absolute;
+  top: 75%;
+  border: 1px solid #FFFAF1;
+  padding: 10px 30px;
+  color: #FFFAF1;
+  left: 300px;
+  transform: translateY(-50%);
+}
+
+.banner_size_main {
+  height: 150px;
+
+}
+
+.home_banner_slides {
+  border-radius: 20px !important;
+  height: 450px !important;
+}
+
+.home_banner_slides img {
+  border-radius: 20px;
+  height: 100% !important;
+}
+
+.banner_size {
+  height: 100%;
+}
+
+/* .react-multiple-carousel__arrow--left {
+  left: calc(15% + 1px) !important;
+  background: #C475AB !important;
+  z-index: 10 !important;
+}
+
+.react-multiple-carousel__arrow--right {
+  right: calc(15% + 1px) !important;
+  background: #C475AB !important;
+  z-index: 10 !important;
+} */
+
+.react-multi-carousel-dot-list {
+  bottom: -25px !important;
+}
+
+@media screen and (max-width:768px) {
+
+  .home_slider_title,
+  .home_slider_content {
+    left: 30px;
+  }
+
+  .home_hero_slider {
+    margin-top: 0px;
+  }
+
+  .home_banner_slides {
+    border-radius: 20px !important;
+    height: auto !important;
+  }
+}
+
+/* @media screen and (max-width:768px) {
+    .home_slider_title {
+      left: 70px;
+    }
+
+    .home_slider_content {
+      left: 95px;
+    }
+
+    .home_hero_slider {
+      margin-top: 0px;
+    }
+
+    .home_hero_slider {
+      background-repeat: no-repeat;
+      height: 190px !important;
+      background-size: contain !important;
+    }
+
+    .home_slider_title {
+      top: 60px;
+      font-size: 48px;
+    }
+
+    .home_slider_content {
+      top: 60%;
+      padding: 7px 20px;
+    }
+
+  }
+
+  @media screen and (max-width:360px) and (min-width:320px) {
+    .home_hero_slider {
+      height: 106px !important;
+    }
+
+    .home_slider_title {
+      top: 30% !important;
+      font-size: 24px !important;
+      left:35px !important
+    }
+  }
+
+  @media screen and (max-width:500px) and (min-width:320px) {
+    .home_slider_title {
+      font-size: 20px;
+      top: 40%;
+      left: 40px;
+    }
+
+    .home_slider_content {
+      top: 55%;
+      padding: 3px 10px;
+      left: 40px;
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (max-width:768px) and (min-width:671px) {
+    .home_hero_slider {
+      height: 250px !important;
+    }
+
+    .home_slider_title {
+      top: 90px;
+    }
+  } */

@@ -1,0 +1,46 @@
+.login_logo {
+    width: 40% !important;
+    margin: 0 auto !important;
+    padding: 40px 0 !important;
+    border-radius: 0 0 50px 50px !important;
+    box-shadow: 0 6px 4px -3px #C576AC !important;
+
+}
+
+.login_line {
+    width: 150px !important;
+}
+
+
+.log_inwith {
+    color: #E287CE !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+.mail_icon{
+   position: absolute;
+   top: 50%;
+   right: 20px;
+   transform: translateY(-50%);
+   color: #E987B4;
+}
+
+.login_email{
+ padding-right: 20px;
+}
+
+.login_sub_text,
+.login_btn,
+.email_label{
+ font-family: 'Georgia' !important;
+}
+.login_btn{
+ margin-top: 30px;
+}
+
+.login_sub_text{
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 22.72px;
+   text-align: left;
+}

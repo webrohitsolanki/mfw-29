@@ -1,0 +1,11 @@
+.scrollbar_none::-webkit-scrollbar {
+    display: none;
+}
+
+.react-multiple-carousel__arrow--left {
+    left: calc(0% + 1px) !important;
+}
+
+.react-multiple-carousel__arrow--right {
+    right: calc(0% + 1px) !important;
+}

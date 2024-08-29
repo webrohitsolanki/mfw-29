@@ -1,0 +1,24 @@
+.home_slider_feature {
+    font-size: 30px;
+    font-family: Georgia, Regular !important;
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+
+.home_slider_feature h2 {
+    text-wrap: wrap;
+    /* width: 350px; */
+    margin: 10px 0;
+    text-align: center;
+}
+
+.recommendation_content {
+    border-radius: 10px;
+}
+
+@media screen and (max-width:768px) {
+    .home_slider_feature {
+        font-size: 22px;
+    }
+}

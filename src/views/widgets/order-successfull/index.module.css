@@ -1,0 +1,68 @@
+.order_check_image {
+    height: 70px;
+    width: 70px;
+}
+
+.order_successfull_image {
+    width: 100px;
+    height: 100px;
+}
+.order_content{
+    box-shadow: 2px 4px 4px -3px #888888;
+}
+.tr_head_content {
+    box-shadow: 0px 5px 0px -2px #E4E7E9;
+}
+
+.tr_head {
+    background-color: #F2F4F5;
+    font-size: 12px;
+    padding: 7px 0;
+    box-shadow: 0px 0px 2px 0px #E4E7E9;
+    margin-top: 2px;
+}
+.summary_right_content{
+    color: #9ca5a9;
+}
+.summary_line{
+    width:90%;
+    margin:20px auto 10px;
+    border: 1px solid #E4E7E9;
+}
+.billing_content{
+    color: #191C1F;
+    font-size: 18px;
+    font-weight: 600;
+}
+.billing_content_name{
+    color: #191C1F;
+    font-size: 14px;
+    margin-top: 15px;
+    font-weight: 600;
+}
+.billing_content_address{
+    margin-top: 10px;
+    color: #9ca5a9;
+    font-size: 14px;
+}
+.billing_main_content_three{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.vertival_line{
+    border-left: 1px solid #E4E7E9;
+    height: 170px;  
+    width: 1px;
+    margin: auto 0;
+}
+.credit_card_image{
+    width: 20px;
+    height: 20px;
+}
+@media screen and (max-width:768px) {
+    .billing_main_content_three{
+        align-items: start;
+    }
+}
